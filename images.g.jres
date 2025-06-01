@@ -1,0 +1,52 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAA8P////8PAP//zMzMzP////HMzMzMH/8f/8zMzMz/8f/xzMzMzB//H//Mz8zM//H/8czMzMwf/x//zMzMzP/x//HMz8zMH////8zMzMz//wDw/////w8AAAAgIiIiAAAAAAAiIgIAAAAAACIiAgAAAAAAICIAAAAAAAAAAgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player - Right"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAgAAAAAAACAiAAAAAAAAIiICAAAAAAAiIgIAAAAAICIiIgAAAPD/////DwD//8zMzMz////xzM/MzB//H//MzMzM//H/8czMzMwf/x//zM/MzP/x//HMzMzMH/8f/8zMzMz/8f/xzMzMzB/////MzMzM//8A8P////8PAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player - Left"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAD/////DwAAAP/x8fEPAAAAHx8fHw8AAPD//////wAA8MzMzMz8AADyzMzMzPwAIvL8zM/M/CAi8szMzMz8IiLyzMzMzPwgIvLMzMzM/AAi8szMzMz8AADyzMzMzPwAAPD//////wAAAB8fHx8PAAAA//Hx8Q8AAAD/////Dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player - Up"
+    },
+    "image4": {
+        "data": "hwQQABAAAADw/////wAAAPAfHx//AAAA8PHx8fEAAAD//////w8AAM/MzMzMLwAAz8zMzMwvIgDPzMzMzC8iAs/MzMzMLyIiz8zMzMwvIgLPzPzMzy8iAM/MzMzMLwAAz8zMzMwPAAD//////w8AAPDx8fHxAAAA8B8fH/8AAADw/////wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player - Down"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADw////////APAiIiIiIvLw/1JSUlJS8vD9UlVVVVXy8P1SVVVVVfLw/1JSUlJS8gDwIiIiIiLyAPD///////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAACZiAAAAAAAAJmIAAAAAAAAmYgAAAAAAACZiAAAAAAAAJmIAAAAAAAAmYgAAAAAAACZiAAAAJmZmZmZmZmImZmZmZmZmYiQmZmZmZmJCACZmZmZmYgAAJCZmZmJCAAAAJmZmYgAAAAAkJmJCAAAAAAAmYgAAAAAAACACAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage2"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAADwD//wDwAPD1AF/1AF8PXxH/H/H/EfXwEdEd0R0RDwAfER3REfEAAN8R3d0R/QD/393d3d39/18R0V3VHRH1XxHRXdUdEfX/393d3d39/wDfEd3dEf0AAB8RHdER8QDwEdEd0R0RD18R/x/x/xH18PUAX/UAXw8ADwD//wDwAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage3"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAP8AAAAAAADwmQ8AAAAAAJ+Z+Q8AAADwmYiZ+QAAAJ+JiIiZ/wAAn4iIiJiZDwCfiIiIiJj5D5+IiIiIiJn5n4iIiIiImfmfiIiIiJj5D5+IiIiYmQ8An4mIiJn/AADwmYiZ+QAAAACfmfkPAAAAAPCZDwAAAAAAAP8AAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "jewel"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAP////8AAADwzMzMzA8AAM+sqqrK/ADwzLq7u6vMD8+sq6qqusr8z7qqzMyqq/zPusq7u6yr/M+6ysu8rKv8z7rKy7ysq/zPusq7u6yr/M+6qszMqqv8z6yrqqq6yvzwzLq7u6vMDwDPrKqqyvwAAPDMzMzMDwAAAP////8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "jewel1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
